@@ -19,5 +19,14 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "arrow-parens": "off",
+        "arrow-body-style""off",
+        "comma-dangle":"off",
+        "no-console": "off",
+        "no-else-return": "off",
+        "no-unused-vars":"off",
+        "semi":"off",
+        "quotes":"off",
+        "yoda": "off"
     }
 }
